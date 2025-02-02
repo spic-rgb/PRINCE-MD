@@ -1,5 +1,5 @@
 //By:  PRINCE TECH
-//https://wa.me/237682698517
+//http://t.me/FARADAY_11
 //https://github.com/Mayelprince/PRINCE-MD-V2
 //http://t.me/FARADAY_11
 //https://whatsapp.com/channel/0029VajcRr0GpLHR6PjdgN3N
