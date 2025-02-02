@@ -27,7 +27,7 @@ PRINCE-MD A AWESOME WHATSAPP BOT WITH LOST OF FEATURES AND PACKAGES TO MAKE YOUR
 
 2. Get Session ID / CREDS.JSON 
     <br>
-<a href='https://prince-md-pair.onrender.com/pair?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://prince-md-v2-session-id-w9re.onrender.com/pair?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 3. AFTER GETTING YOUR CREDS.JSON FILE UPLOAD IT TO THE PRINCESESSION FOLDER.
