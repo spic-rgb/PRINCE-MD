@@ -17,7 +17,7 @@ global.anticall = false
 
 
 global.SESSION_ID = process.env.SESSION_ID || "prince_tech-rR1x3Y6CGTURg3kmIpKqfCevsDUuPEylZhbfNR4PhA"
-global.Owner = ["237682"]; //like 2347080968564 
+global.Owner = ["237682"]; //like 23470968564 
 global.OwnerName =  "PRINCE";
 global.BotName = "PRINCE-MD-V2";
 global.packname = "PRINCE-MD-V2";                             //Do not change.
@@ -67,6 +67,7 @@ global.mess = {
     privateonly: 'This command is only made for *Private Chat*',
     botonly: 'Only the *Bot itself* can use this command!',
     waiting: '_Wait a lil bit_...',
+    mayel:'only my creator can use this command',
     nolink: ' provide me *link*',
     error: 'An error occurd!',
     banned: 'You cant use the commands because you Are *Banned*',
